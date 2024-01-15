@@ -1,0 +1,6 @@
+Using Python you can work with strings
+Using Python you can work with numbers
+Using Python you can work with lists
+Using Python you can make for and while loops
+Using Python you can work with classes
+Using Python you can work with files
